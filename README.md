@@ -1,9 +1,5 @@
 # Markdown
 ## License
-function renderLicenseSection(license) {
-    return `## License
-The license for our project is a ${data.license} license`
-}
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 Dynamically generated README.md file using JavaScript, ES6 syntax, Node.js, NPM Inquirer & other modules.
