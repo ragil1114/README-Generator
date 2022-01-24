@@ -16,6 +16,8 @@ Dynamically generated README.md file using JavaScript, ES6 syntax, Node.js, NPM 
 Run npm install on CLI
 ## Usage
 Follow CLI prompts & input data to generate document.
+![demo](https://github.com/ragil1114/README-Generator/blob/main/assets/images/demo.png)
+![demo2](https://github.com/ragil1114/README-Generator/blob/main/assets/images/demo2.png)
 ## Contributing
 Pull requests & issues are welcome!
 ## Tests
