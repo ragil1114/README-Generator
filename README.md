@@ -22,5 +22,5 @@ Pull requests & issues are welcome!
 Jest
 ## Username
 [ragil1114](https://www.github.com/ragil1114)
-## Email
+## Questions?
 [Rahil.Gilani@gmail.com](Rahil.Gilani@gmail.com)
