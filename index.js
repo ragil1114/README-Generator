@@ -16,7 +16,42 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Which license would you like to use?',
-        choices: ['MIT', 'APACHE 2.0']
+        choices: ['MIT', 'Apache']
+    },
+    {
+        type: 'input',
+        name: 'description',
+        message: 'How would you describe the project?'
+    },
+    {
+        type: 'input',
+        name: 'installation',
+        message: 'How do you install the project?'
+    },
+    {
+        type: 'input',
+        name: 'usage',
+        message: 'What are the instructions on how to use the project?'
+    },
+    {
+        type: 'input',
+        name: 'contributing',
+        message: 'What are the guidelines to contribute to the project?'
+    },
+    {
+        type: 'input',
+        name: 'tests',
+        message: 'What tests are you running for the project?'
+    },
+    {
+        type: 'input',
+        name: 'username',
+        message: 'What is your Github username?'
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'What is your email?'
     }
 ];
 
