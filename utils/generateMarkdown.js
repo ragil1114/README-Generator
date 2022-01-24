@@ -41,7 +41,7 @@ ${data.contributing}
 ${data.tests}
 ## Username
 [${data.username}](https://www.github.com/${data.username})
-## Email
+## Questions?
 [${data.email}](${data.email})
 `;
 }
