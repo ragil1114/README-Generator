@@ -30,7 +30,7 @@ ${data.description}
 * [Tests](#tests)
 * [License](#license)
 * [Username](#username)
-* [Email](#email)
+* [Questions](#questions)
 ## Installation
 ${data.installation}
 ## Usage
@@ -41,7 +41,7 @@ ${data.contributing}
 ${data.tests}
 ## Username
 [${data.username}](https://www.github.com/${data.username})
-## Questions?
+## Questions
 [${data.email}](${data.email})
 `;
 }
