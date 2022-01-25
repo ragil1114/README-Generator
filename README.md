@@ -11,7 +11,7 @@ Dynamically generated README.md file using JavaScript, ES6 syntax, Node.js, NPM 
 * [Tests](#tests)
 * [License](#license)
 * [Username](#username)
-* [Email](#email)
+* [Questions](#questions)
 ## Installation
 Run npm install on CLI
 ## Usage
@@ -27,5 +27,5 @@ Pull requests & issues are welcome!
 Jest
 ## Username
 [ragil1114](https://www.github.com/ragil1114)
-## Questions?
+## Questions
 [Rahil.Gilani@gmail.com](Rahil.Gilani@gmail.com)
